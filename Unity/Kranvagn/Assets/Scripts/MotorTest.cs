@@ -25,7 +25,7 @@ public class MotorTest : MonoBehaviour {
 
     void FixedUpdate () {
 
-      /*  HingeJoint hinge = GetComponent<HingeJoint>();
+       /* HingeJoint hinge = GetComponent<HingeJoint>();
         JointMotor motor = hinge.motor;
 
         if (Input.GetKeyDown(KeyCode.Space))
