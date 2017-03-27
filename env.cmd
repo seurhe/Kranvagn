@@ -1,0 +1,2 @@
+SET HOMEDRIVE=C:
+SET HOMEPATH=\Users\seurhe

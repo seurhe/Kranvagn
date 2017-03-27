@@ -1,0 +1,17 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+target/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+.vs/
