@@ -127,8 +127,13 @@
       <Project>{8C06EF74-932F-6F9D-FE20-4EB7158E3913}</Project>
       <Name>Kranvagn.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="Kranvagn.csproj">
+      <Project>{DA2B38D7-9A1E-2594-84D1-039E14389942}</Project>
+      <Name>Kranvagn</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Plugins\Pixelplacement\iTweenPath\Editor\iTweenPathEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
   </ItemGroup>
   <ItemGroup>
