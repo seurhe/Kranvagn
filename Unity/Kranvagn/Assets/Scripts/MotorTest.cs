@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class MotorTest : MonoBehaviour {
 
+    public int tid1;
+    public int tid2;
+    public int tid3;
 
-    
     public float SpeedUp;
     public float SpeedDown;
     public float LimitUp;
@@ -45,6 +47,13 @@ public class MotorTest : MonoBehaviour {
         hinge.motor = motor;
         hinge.useMotor = true;*/
 
+    }
+
+    public void InvokeMotorTest()
+    {
+        Invoke("UpScript", tid1);
+        Invoke("DownScript", tid2);
+        Invoke("UpScript", tid3);
     }
 
     public void UpScript ()

@@ -5,7 +5,8 @@ using UnityEngine;
 public class Motor2 : MonoBehaviour
 {
 
-
+    public int tid1;
+    public int tid2;
 
     public float SpeedOne;
     public float SpeedTwo;
@@ -48,6 +49,12 @@ public class Motor2 : MonoBehaviour
         hinge.motor = motor;
         hinge.useMotor = true;*/
 
+    }
+
+    public void InvokeMotor2()
+    {
+        Invoke("RuntScript", tid1);
+        Invoke("RuntScriptet", tid2);
     }
 
     public void RuntScript()

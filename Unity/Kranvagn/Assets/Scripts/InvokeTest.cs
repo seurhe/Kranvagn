@@ -4,18 +4,28 @@ using UnityEngine;
 
 public class InvokeTest : MonoBehaviour {
 
-    public int tid = 2;
+    public MotorTest MotorTest;
+
+    public Motor2 Motor2;
+
+    bool NeverDone;
+
+    void Start()
+    {
+        NeverDone = true;
+    }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (NeverDone)
         {
-            Invoke("Hejscript", tid);
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                MotorTest.InvokeMotorTest();
+                Motor2.InvokeMotor2();
+                NeverDone = false;
+            }
         }
     }
-           
-    void Hejscript()
-    {
-        Debug.Log( tid + " sekunder har gått sedan knapptryck");
-    }
+
 }
