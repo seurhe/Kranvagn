@@ -90,6 +90,8 @@
     <Compile Include="Assets\Holograms\Support\Spatial Mapping\SpatialMapping.cs" />
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldReset.cs" />
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldSound.cs" />
+    <Compile Include="Assets\Scripts\DetachScript.cs" />
+    <Compile Include="Assets\Scripts\DetachScript2.cs" />
     <Compile Include="Assets\Scripts\DownButton.cs" />
     <Compile Include="Assets\Scripts\ExampleClass.cs" />
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
