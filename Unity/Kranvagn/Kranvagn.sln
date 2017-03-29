@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kranvagn", "Kranvagn.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kranvagn.Editor.Plugins", "Kranvagn.Editor.Plugins.csproj", "{5AB8E7E4-77E0-7DB7-79D1-C7B732CDA1A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kranvagn.Editor", "Kranvagn.Editor.csproj", "{0B880F4F-5586-F3A2-C3D6-DA3AE31BEA90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{5AB8E7E4-77E0-7DB7-79D1-C7B732CDA1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AB8E7E4-77E0-7DB7-79D1-C7B732CDA1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AB8E7E4-77E0-7DB7-79D1-C7B732CDA1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B880F4F-5586-F3A2-C3D6-DA3AE31BEA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B880F4F-5586-F3A2-C3D6-DA3AE31BEA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B880F4F-5586-F3A2-C3D6-DA3AE31BEA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B880F4F-5586-F3A2-C3D6-DA3AE31BEA90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

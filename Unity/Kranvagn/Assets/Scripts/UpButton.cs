@@ -1,21 +1,35 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UpButton : MonoBehaviour {
-    public MotorTest MotorTest;
+namespace HoloToolkit.Unity.InputModule
+{
 
-    Renderer rend;
-
-    void Start()
+    public class UpButton : MonoBehaviour,
+                            IInputHandler
     {
-        rend = GetComponent<Renderer>();
-        rend.material.color = Color.blue;
+        public MotorTest MotorTest;
+
+        Renderer rend;
+
+        void Start()
+        {
+            rend = GetComponent<Renderer>();
+            rend.material.color = Color.blue;
+        }
+
+        public void OnInputUp(InputEventData eventData)
+        {
+            throw new NotImplementedException();
+            
+        }
+
+        public void OnInputDown(InputEventData eventData)
+        {
+            rend.material.color = Color.black;
+            MotorTest.UpScript();
+            throw new NotImplementedException();
+        }
     }
-
-    void onSelect()
-    {
-        rend.material.color = Color.black;
-        MotorTest.UpScript();
-    } 
 }
