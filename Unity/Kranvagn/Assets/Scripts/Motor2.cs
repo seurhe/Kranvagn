@@ -51,10 +51,15 @@ public class Motor2 : MonoBehaviour
 
     }
 
-    public void InvokeMotor2()
+    public void InvokeStart()
     {
-        Invoke("RuntScript", tid1);
-        Invoke("RuntScriptet", tid2);
+        Invoke("RuntScript", 3);
+    }
+
+    public void InvokeRor()
+    {
+        Invoke("RuntScriptet", 1);
+        Invoke("RuntScript", 20);
     }
 
     public void RuntScript()

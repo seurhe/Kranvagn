@@ -10,14 +10,7 @@ namespace HoloToolkit.Unity.InputModule
                             IInputHandler
     {
         public MotorTest MotorTest;
-
-        Renderer rend;
-
-        void Start()
-        {
-            rend = GetComponent<Renderer>();
-            rend.material.color = Color.blue;
-        }
+        public Motor2 Motor2;
 
         public void OnInputUp(InputEventData eventData)
         {
@@ -27,8 +20,8 @@ namespace HoloToolkit.Unity.InputModule
 
         public void OnInputDown(InputEventData eventData)
         {
-            rend.material.color = Color.black;
-            MotorTest.UpScript();
+            MotorTest.InvokeStart();
+            Motor2.InvokeStart();
             throw new NotImplementedException();
         }
     }

@@ -345,7 +345,6 @@
     <Compile Include="Assets\Scripts\DownButton.cs" />
     <Compile Include="Assets\Scripts\ExampleClass.cs" />
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
-    <Compile Include="Assets\Scripts\InvokeTest.cs" />
     <Compile Include="Assets\Scripts\Motor2.cs" />
     <Compile Include="Assets\Scripts\MotorTest.cs" />
     <Compile Include="Assets\Scripts\PathNode.cs" />

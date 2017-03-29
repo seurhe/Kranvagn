@@ -49,11 +49,15 @@ public class MotorTest : MonoBehaviour {
 
     }
 
-    public void InvokeMotorTest()
+    public void InvokeStart()
     {
-        Invoke("UpScript", tid1);
-        Invoke("DownScript", tid2);
-        Invoke("UpScript", tid3);
+        Invoke("UpScript", 1);
+    }
+
+    public void InvokeRor()
+    {
+        Invoke("DownScript", 5);
+        Invoke("UpScript", 15);
     }
 
     public void UpScript ()

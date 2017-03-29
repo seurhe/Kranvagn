@@ -1,22 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class DownButton : MonoBehaviour {
+namespace HoloToolkit.Unity.InputModule
+{
 
-    public MotorTest MotorTest;
-
-    Renderer rend;
-
-    void Start()
+    public class DownButton : MonoBehaviour,
+                            IInputHandler
     {
-        rend = GetComponent<Renderer>();
-        rend.material.color = Color.gray;
-    }
+        public MotorTest MotorTest;
+        public Motor2 Motor2;
 
-    void onSelect()
-    {
-        rend.material.color = Color.red;
-        MotorTest.DownScript();
+        public void OnInputUp(InputEventData eventData)
+        {
+
+        }
+
+        public void OnInputDown(InputEventData eventData)
+        {
+            MotorTest.InvokeRor();
+            Motor2.InvokeRor();
+        }
     }
 }
