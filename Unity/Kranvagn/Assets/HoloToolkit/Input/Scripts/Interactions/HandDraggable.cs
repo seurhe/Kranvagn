@@ -4,6 +4,8 @@
 using UnityEngine;
 using System;
 
+// Förändringar är gjorda lokalt
+
 namespace HoloToolkit.Unity.InputModule
 {
     /// <summary>
@@ -190,6 +192,9 @@ namespace HoloToolkit.Unity.InputModule
 
             draggingPosition = pivotPosition + (targetDirection * targetDistance);
 
+            //Logger logger = new Logger(new LogH)
+            float oldMarkniva = HostTransform.position.y;
+
             if (IsOrientTowardsUser)
             {
                 draggingRotation = Quaternion.LookRotation(HostTransform.position - pivotPosition);
@@ -201,7 +206,8 @@ namespace HoloToolkit.Unity.InputModule
             }
 
             // Apply Final Position
-            HostTransform.position = draggingPosition + mainCamera.transform.TransformDirection(objRefGrabPoint);
+            Vector3 newPosition = draggingPosition + mainCamera.transform.TransformDirection(objRefGrabPoint);
+            HostTransform.position = new Vector3(newPosition.x, oldMarkniva, newPosition.z);
             HostTransform.rotation = draggingRotation;
 
             if (IsKeepUpright)
