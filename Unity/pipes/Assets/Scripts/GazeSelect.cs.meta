@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1c2054bf87f4b424d832a83d870fb656
+timeCreated: 1479470405
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OnGazeMaterial: {fileID: 2100000, guid: bc196e5fe4d433849a97da14e2cd6539, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

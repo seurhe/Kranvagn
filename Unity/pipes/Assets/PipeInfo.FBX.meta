@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: f69a5862fa541fa4fb4525074f745d1c
+timeCreated: 1480322313
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box016
+    100032: Box017
+    100034: Box018
+    100036: Box019
+    100038: Box020
+    100040: Box021
+    100042: Box022
+    100044: Box023
+    100046: Box024
+    100048: Circle001
+    100050: Circle002
+    100052: Circle013
+    100054: Circle015
+    100056: DIAGRAM 1
+    100058: DIAGRAM 2
+    100060: GraphInfo
+    100062: HUMIDITY
+    100064: HUMIDITY GRAPH
+    100066: Line001
+    100068: Line003
+    100070: Line004
+    100072: Line011
+    100074: Line013
+    100076: Line014
+    100078: Line015
+    100080: Line017
+    100082: Line018
+    100084: Line020
+    100086: Line021
+    100088: LOCATION 1
+    100090: LOCATION 2
+    100092: Object
+    100094: OBJECT OVERVIEW
+    100096: OBJECT OVERVIEW 1
+    100098: OBJECT OVERVIEW 2
+    100100: OBJECT OVERVIEW001
+    100102: OBJECT OVERVIEW002
+    100104: OBJECT OVERVIEW003
+    100106: OBJECT OVERVIEW004
+    100108: Object001
+    100110: //RootNode
+    100112: Rectangle007
+    100114: Rectangle008
+    100116: Rectangle009
+    100118: Rectangle010
+    100120: Rectangle014
+    100122: Rectangle015
+    100124: Rectangle016
+    100126: Rectangle017
+    100128: Rectangle018
+    100130: Rectangle019
+    100132: Rectangle020
+    100134: RUBRIK 1
+    100136: RUBRIK 2
+    100138: Ruta med bild
+    100140: Ruta med bild001
+    100142: staplar
+    100144: staplar 1
+    100146: TechInfo
+    100148: TECHNICAL SPECIFICATIONS
+    100150: TEMPERATURE
+    100152: TEMPERATURE GRAPH
+    100154: Text003
+    100156: Text004
+    100158: Text005
+    100160: Text006
+    100162: Text007
+    100164: Text008
+    100166: Text009
+    100168: Text010
+    100170: Text011
+    100172: Text012
+    100174: Text013
+    100176: Text014
+    100178: Text015
+    100180: Text016
+    100182: Text017
+    100184: Text018
+    100186: Text019
+    100188: Text020
+    100190: Text022
+    100192: Text023
+    100194: Text024
+    100196: Text025
+    100198: Text026
+    100200: Text027
+    100202: Text028
+    100204: Text029
+    100206: Text030
+    100208: Text031
+    100210: Text032
+    100212: Text033
+    100214: Text034
+    100216: Text035
+    100218: Text036
+    100220: Text037
+    100222: Text038
+    100224: Text039
+    100226: Text040
+    100228: Text041
+    100230: Text042
+    100232: Text043
+    100234: Text044
+    100236: Text045
+    100238: Text046
+    100240: Text046_MeshPart0
+    100242: Text046_MeshPart1
+    100244: Text048
+    100246: Text048_MeshPart0
+    100248: Text048_MeshPart1
+    100250: Text049
+    100252: Text050
+    100254: Text051
+    100256: Text052
+    100258: Text052_MeshPart0
+    100260: Text052_MeshPart1
+    100262: Text053
+    100264: Textruta 005
+    100266: Textruta 006
+    100268: Textruta 007
+    100270: Textruta 1
+    100272: Textruta 2
+    100274: Textruta 3
+    100276: Textruta 4
+    100278: VERKTYG 1
+    100280: VERKTYG 2
+    100282: Group001
+    100284: Group002
+    100286: Line016
+    100288: Overview
+    100290: Specs
+    100292: Spec
+    100294: Group003
+    100296: Rectangle011
+    100298: Rectangle012
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box016
+    400032: Box017
+    400034: Box018
+    400036: Box019
+    400038: Box020
+    400040: Box021
+    400042: Box022
+    400044: Box023
+    400046: Box024
+    400048: Circle001
+    400050: Circle002
+    400052: Circle013
+    400054: Circle015
+    400056: DIAGRAM 1
+    400058: DIAGRAM 2
+    400060: GraphInfo
+    400062: HUMIDITY
+    400064: HUMIDITY GRAPH
+    400066: Line001
+    400068: Line003
+    400070: Line004
+    400072: Line011
+    400074: Line013
+    400076: Line014
+    400078: Line015
+    400080: Line017
+    400082: Line018
+    400084: Line020
+    400086: Line021
+    400088: LOCATION 1
+    400090: LOCATION 2
+    400092: Object
+    400094: OBJECT OVERVIEW
+    400096: OBJECT OVERVIEW 1
+    400098: OBJECT OVERVIEW 2
+    400100: OBJECT OVERVIEW001
+    400102: OBJECT OVERVIEW002
+    400104: OBJECT OVERVIEW003
+    400106: OBJECT OVERVIEW004
+    400108: Object001
+    400110: //RootNode
+    400112: Rectangle007
+    400114: Rectangle008
+    400116: Rectangle009
+    400118: Rectangle010
+    400120: Rectangle014
+    400122: Rectangle015
+    400124: Rectangle016
+    400126: Rectangle017
+    400128: Rectangle018
+    400130: Rectangle019
+    400132: Rectangle020
+    400134: RUBRIK 1
+    400136: RUBRIK 2
+    400138: Ruta med bild
+    400140: Ruta med bild001
+    400142: staplar
+    400144: staplar 1
+    400146: TechInfo
+    400148: TECHNICAL SPECIFICATIONS
+    400150: TEMPERATURE
+    400152: TEMPERATURE GRAPH
+    400154: Text003
+    400156: Text004
+    400158: Text005
+    400160: Text006
+    400162: Text007
+    400164: Text008
+    400166: Text009
+    400168: Text010
+    400170: Text011
+    400172: Text012
+    400174: Text013
+    400176: Text014
+    400178: Text015
+    400180: Text016
+    400182: Text017
+    400184: Text018
+    400186: Text019
+    400188: Text020
+    400190: Text022
+    400192: Text023
+    400194: Text024
+    400196: Text025
+    400198: Text026
+    400200: Text027
+    400202: Text028
+    400204: Text029
+    400206: Text030
+    400208: Text031
+    400210: Text032
+    400212: Text033
+    400214: Text034
+    400216: Text035
+    400218: Text036
+    400220: Text037
+    400222: Text038
+    400224: Text039
+    400226: Text040
+    400228: Text041
+    400230: Text042
+    400232: Text043
+    400234: Text044
+    400236: Text045
+    400238: Text046
+    400240: Text046_MeshPart0
+    400242: Text046_MeshPart1
+    400244: Text048
+    400246: Text048_MeshPart0
+    400248: Text048_MeshPart1
+    400250: Text049
+    400252: Text050
+    400254: Text051
+    400256: Text052
+    400258: Text052_MeshPart0
+    400260: Text052_MeshPart1
+    400262: Text053
+    400264: Textruta 005
+    400266: Textruta 006
+    400268: Textruta 007
+    400270: Textruta 1
+    400272: Textruta 2
+    400274: Textruta 3
+    400276: Textruta 4
+    400278: VERKTYG 1
+    400280: VERKTYG 2
+    400282: Group001
+    400284: Group002
+    400286: Line016
+    400288: Overview
+    400290: Specs
+    400292: Spec
+    400294: Group003
+    400296: Rectangle011
+    400298: Rectangle012
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: Box018
+    2300036: Box019
+    2300038: Box020
+    2300040: Box021
+    2300042: Box022
+    2300044: Box023
+    2300046: Box024
+    2300048: HUMIDITY
+    2300050: Line001
+    2300052: Line017
+    2300054: Object
+    2300056: OBJECT OVERVIEW
+    2300058: OBJECT OVERVIEW001
+    2300060: OBJECT OVERVIEW002
+    2300062: OBJECT OVERVIEW003
+    2300064: OBJECT OVERVIEW004
+    2300066: Object001
+    2300068: Rectangle007
+    2300070: Rectangle008
+    2300072: Rectangle009
+    2300074: Rectangle010
+    2300076: Rectangle014
+    2300078: Rectangle015
+    2300080: Rectangle016
+    2300082: Rectangle017
+    2300084: Rectangle018
+    2300086: Rectangle019
+    2300088: Rectangle020
+    2300090: RUBRIK 1
+    2300092: RUBRIK 2
+    2300094: TEMPERATURE
+    2300096: Text003
+    2300098: Text004
+    2300100: Text005
+    2300102: Text006
+    2300104: Text007
+    2300106: Text008
+    2300108: Text009
+    2300110: Text010
+    2300112: Text011
+    2300114: Text012
+    2300116: Text013
+    2300118: Text014
+    2300120: Text015
+    2300122: Text016
+    2300124: Text017
+    2300126: Text018
+    2300128: Text019
+    2300130: Text020
+    2300132: Text022
+    2300134: Text023
+    2300136: Text024
+    2300138: Text025
+    2300140: Text026
+    2300142: Text027
+    2300144: Text028
+    2300146: Text029
+    2300148: Text030
+    2300150: Text031
+    2300152: Text032
+    2300154: Text033
+    2300156: Text034
+    2300158: Text035
+    2300160: Text036
+    2300162: Text037
+    2300164: Text038
+    2300166: Text039
+    2300168: Text040
+    2300170: Text041
+    2300172: Text042
+    2300174: Text043
+    2300176: Text044
+    2300178: Text045
+    2300180: Text046_MeshPart0
+    2300182: Text046_MeshPart1
+    2300184: Text048_MeshPart0
+    2300186: Text048_MeshPart1
+    2300188: Text049
+    2300190: Text050
+    2300192: Text051
+    2300194: Text052_MeshPart0
+    2300196: Text052_MeshPart1
+    2300198: Text053
+    2300200: Rectangle011
+    2300202: Rectangle012
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: Box018
+    3300036: Box019
+    3300038: Box020
+    3300040: Box021
+    3300042: Box022
+    3300044: Box023
+    3300046: Box024
+    3300048: HUMIDITY
+    3300050: Line001
+    3300052: Line017
+    3300054: Object
+    3300056: OBJECT OVERVIEW
+    3300058: OBJECT OVERVIEW001
+    3300060: OBJECT OVERVIEW002
+    3300062: OBJECT OVERVIEW003
+    3300064: OBJECT OVERVIEW004
+    3300066: Object001
+    3300068: Rectangle007
+    3300070: Rectangle008
+    3300072: Rectangle009
+    3300074: Rectangle010
+    3300076: Rectangle014
+    3300078: Rectangle015
+    3300080: Rectangle016
+    3300082: Rectangle017
+    3300084: Rectangle018
+    3300086: Rectangle019
+    3300088: Rectangle020
+    3300090: RUBRIK 1
+    3300092: RUBRIK 2
+    3300094: TEMPERATURE
+    3300096: Text003
+    3300098: Text004
+    3300100: Text005
+    3300102: Text006
+    3300104: Text007
+    3300106: Text008
+    3300108: Text009
+    3300110: Text010
+    3300112: Text011
+    3300114: Text012
+    3300116: Text013
+    3300118: Text014
+    3300120: Text015
+    3300122: Text016
+    3300124: Text017
+    3300126: Text018
+    3300128: Text019
+    3300130: Text020
+    3300132: Text022
+    3300134: Text023
+    3300136: Text024
+    3300138: Text025
+    3300140: Text026
+    3300142: Text027
+    3300144: Text028
+    3300146: Text029
+    3300148: Text030
+    3300150: Text031
+    3300152: Text032
+    3300154: Text033
+    3300156: Text034
+    3300158: Text035
+    3300160: Text036
+    3300162: Text037
+    3300164: Text038
+    3300166: Text039
+    3300168: Text040
+    3300170: Text041
+    3300172: Text042
+    3300174: Text043
+    3300176: Text044
+    3300178: Text045
+    3300180: Text046_MeshPart0
+    3300182: Text046_MeshPart1
+    3300184: Text048_MeshPart0
+    3300186: Text048_MeshPart1
+    3300188: Text049
+    3300190: Text050
+    3300192: Text051
+    3300194: Text052_MeshPart0
+    3300196: Text052_MeshPart1
+    3300198: Text053
+    3300200: Rectangle011
+    3300202: Rectangle012
+    4300000: RUBRIK 2
+    4300002: OBJECT OVERVIEW003
+    4300004: Text049
+    4300006: Text051
+    4300008: Rectangle017
+    4300010: Text050
+    4300012: Rectangle018
+    4300014: Text053
+    4300016: Line017
+    4300018: Rectangle014
+    4300020: OBJECT OVERVIEW004
+    4300022: Rectangle019
+    4300024: Text052_MeshPart0
+    4300026: Text052_MeshPart1
+    4300028: Rectangle020
+    4300030: Object001
+    4300032: OBJECT OVERVIEW001
+    4300034: Text045
+    4300036: Rectangle010
+    4300038: Text046_MeshPart0
+    4300040: Text046_MeshPart1
+    4300042: RUBRIK 1
+    4300044: OBJECT OVERVIEW
+    4300046: Text042
+    4300048: Rectangle008
+    4300050: Text041
+    4300052: Text044
+    4300054: Rectangle009
+    4300056: Text043
+    4300058: OBJECT OVERVIEW002
+    4300060: Text048_MeshPart0
+    4300062: Text048_MeshPart1
+    4300064: Rectangle015
+    4300066: Object
+    4300068: Rectangle016
+    4300070: Line001
+    4300072: Box010
+    4300074: Box011
+    4300076: Box012
+    4300078: Box009
+    4300080: Box008
+    4300082: Box007
+    4300084: Box006
+    4300086: Box005
+    4300088: Box004
+    4300090: Box003
+    4300092: Box002
+    4300094: Box001
+    4300096: Text018
+    4300098: Text017
+    4300100: Text016
+    4300102: Text015
+    4300104: Text014
+    4300106: Text013
+    4300108: Text012
+    4300110: Text011
+    4300112: Text010
+    4300114: Text003
+    4300116: Text009
+    4300118: HUMIDITY
+    4300120: Text008
+    4300122: Text004
+    4300124: Text007
+    4300126: Text005
+    4300128: Text006
+    4300130: Text020
+    4300132: Text019
+    4300134: Box024
+    4300136: Box023
+    4300138: Box016
+    4300140: Box015
+    4300142: Box014
+    4300144: Box013
+    4300146: Box017
+    4300148: Box018
+    4300150: Box019
+    4300152: Box021
+    4300154: Box020
+    4300156: Box022
+    4300158: Text031
+    4300160: Text030
+    4300162: Text029
+    4300164: Text039
+    4300166: Text038
+    4300168: Text037
+    4300170: Text036
+    4300172: Text035
+    4300174: Text034
+    4300176: Text022
+    4300178: TEMPERATURE
+    4300180: Text028
+    4300182: Text027
+    4300184: Text026
+    4300186: Text025
+    4300188: Text024
+    4300190: Text040
+    4300192: Text023
+    4300194: Text032
+    4300196: Text033
+    4300198: Rectangle007
+    4300200: Rectangle011
+    4300202: Rectangle012
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

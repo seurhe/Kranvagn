@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 7bd8f14128260c64486218a58dafd8ff
+timeCreated: 1479464843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Close
+    100002: Close 1
+    100004: Cylinder001
+    100006: Cylinder002
+    100008: Cylinder003
+    100010: Down
+    100012: FACE
+    100014: //RootNode
+    100016: Left
+    100018: MENU
+    100020: Move
+    100022: Move 1
+    100024: Object move
+    100026: Object move001
+    100028: Object move002
+    100030: Rectangle027
+    100032: Rectangle028
+    100034: Rectangle029
+    100036: Right
+    100038: Scale
+    100040: SETTINGS
+    100042: Up
+    100044: Rectangle030
+    100046: Box001
+    100048: Box002
+    100050: Box003
+    100052: Scale 1
+    100054: DONE
+    100056: DONE 1
+    100058: DONE_Frame
+    100060: Menu
+    100062: Box004
+    100064: Down001
+    100066: Frame
+    100068: Left001
+    100070: PHASE
+    100072: Phase1
+    100074: Phase2
+    100076: Phase3
+    100078: Right001
+    100080: Rotate
+    100082: Rotate 1
+    100084: Up001
+    400000: Close
+    400002: Close 1
+    400004: Cylinder001
+    400006: Cylinder002
+    400008: Cylinder003
+    400010: Down
+    400012: FACE
+    400014: //RootNode
+    400016: Left
+    400018: MENU
+    400020: Move
+    400022: Move 1
+    400024: Object move
+    400026: Object move001
+    400028: Object move002
+    400030: Rectangle027
+    400032: Rectangle028
+    400034: Rectangle029
+    400036: Right
+    400038: Scale
+    400040: SETTINGS
+    400042: Up
+    400044: Rectangle030
+    400046: Box001
+    400048: Box002
+    400050: Box003
+    400052: Scale 1
+    400054: DONE
+    400056: DONE 1
+    400058: DONE_Frame
+    400060: Menu
+    400062: Box004
+    400064: Down001
+    400066: Frame
+    400068: Left001
+    400070: PHASE
+    400072: Phase1
+    400074: Phase2
+    400076: Phase3
+    400078: Right001
+    400080: Rotate
+    400082: Rotate 1
+    400084: Up001
+    2300000: Close 1
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Down
+    2300010: FACE
+    2300012: Left
+    2300014: MENU
+    2300016: Object move
+    2300018: Object move001
+    2300020: Object move002
+    2300022: Rectangle027
+    2300024: Rectangle028
+    2300026: Rectangle029
+    2300028: Right
+    2300030: SETTINGS
+    2300032: Up
+    2300034: Rectangle030
+    2300036: Box001
+    2300038: Box002
+    2300040: Box003
+    2300042: DONE 1
+    2300044: DONE_Frame
+    2300046: Box004
+    2300048: Down001
+    2300050: Frame
+    2300052: Left001
+    2300054: PHASE
+    2300056: Phase1
+    2300058: Phase2
+    2300060: Phase3
+    2300062: Right001
+    2300064: Up001
+    3300000: Close 1
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Down
+    3300010: FACE
+    3300012: Left
+    3300014: MENU
+    3300016: Object move
+    3300018: Object move001
+    3300020: Object move002
+    3300022: Rectangle027
+    3300024: Rectangle028
+    3300026: Rectangle029
+    3300028: Right
+    3300030: SETTINGS
+    3300032: Up
+    3300034: Rectangle030
+    3300036: Box001
+    3300038: Box002
+    3300040: Box003
+    3300042: DONE 1
+    3300044: DONE_Frame
+    3300046: Box004
+    3300048: Down001
+    3300050: Frame
+    3300052: Left001
+    3300054: PHASE
+    3300056: Phase1
+    3300058: Phase2
+    3300060: Phase3
+    3300062: Right001
+    3300064: Up001
+    4300000: Rectangle027
+    4300002: SETTINGS
+    4300004: FACE
+    4300006: Cylinder002
+    4300008: MENU
+    4300010: Cylinder003
+    4300012: Cylinder001
+    4300014: Rectangle029
+    4300016: Object move
+    4300018: Down
+    4300020: Left
+    4300022: Right
+    4300024: Up
+    4300026: Rectangle028
+    4300028: Close
+    4300030: Object move002
+    4300032: Object move001
+    4300034: Rectangle030
+    4300036: Box001
+    4300038: Box002
+    4300040: Box003
+    4300042: DONE
+    4300044: DONE_Frame
+    4300046: Phase1
+    4300048: Phase3
+    4300050: Phase2
+    4300052: PHASE
+    4300054: Frame
+    4300056: Up001
+    4300058: Down001
+    4300060: Right001
+    4300062: Left001
+    4300064: Box004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

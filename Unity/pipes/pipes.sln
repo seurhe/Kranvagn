@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipes", "pipes.csproj", "{235BA0A5-58FE-8410-FCAF-4F5F6830D2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipes.Editor", "pipes.Editor.csproj", "{7FBDE93C-3635-0F7A-FF48-10443296AC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235BA0A5-58FE-8410-FCAF-4F5F6830D2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235BA0A5-58FE-8410-FCAF-4F5F6830D2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235BA0A5-58FE-8410-FCAF-4F5F6830D2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235BA0A5-58FE-8410-FCAF-4F5F6830D2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBDE93C-3635-0F7A-FF48-10443296AC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBDE93C-3635-0F7A-FF48-10443296AC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBDE93C-3635-0F7A-FF48-10443296AC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBDE93C-3635-0F7A-FF48-10443296AC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
