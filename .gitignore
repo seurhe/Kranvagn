@@ -4,6 +4,7 @@
 Temp/
 Library/
 target/
+VisualStudio/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
