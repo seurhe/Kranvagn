@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rorligt", "Rorligt.csproj", "{DC885192-ACAD-387E-14F1-82F604F73C64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rorligt.Editor", "Rorligt.Editor.csproj", "{1D70CA78-EC56-A0BD-2F57-4DD25D1B5D47}"
