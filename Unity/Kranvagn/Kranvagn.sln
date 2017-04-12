@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kranvagn.Plugins", "Kranvagn.Plugins.csproj", "{8C06EF74-932F-6F9D-FE20-4EB7158E3913}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kranvagn", "Kranvagn.csproj", "{DA2B38D7-9A1E-2594-84D1-039E14389942}"
